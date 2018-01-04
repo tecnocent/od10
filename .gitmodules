@@ -2,3 +2,8 @@
 	path = muk-it/muk_dms
 	url = git@github.com:muk-it/muk_dms.git
 	branch = 10.0
+
+[submodule "ctmil/meli_oerp"]
+	path = ctmil/meli_oerp
+	url = git@github.com:ctmil/meli_oerp.git
+	branch = odoo10mx
